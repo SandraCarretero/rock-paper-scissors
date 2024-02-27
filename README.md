@@ -3,7 +3,7 @@
 
 ## Ejemplo en vivo
 
-  - [https://sandracarretero.github.io/weather/](https://sandracarretero.github.io/rock-paper-scissors/)
+  - [https://sandracarretero.github.io/rock-paper-scissors/](https://sandracarretero.github.io/rock-paper-scissors/)
 
 ## Descripción 📑
 
